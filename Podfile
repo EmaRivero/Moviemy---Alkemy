@@ -7,5 +7,6 @@ target 'Moviemy' do
 
 pod 'Alamofire'
 pod 'Kingfisher', '~> 7.0'
+pod 'IQKeyboardManagerSwift'
 
 end
